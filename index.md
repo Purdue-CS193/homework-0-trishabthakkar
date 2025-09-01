@@ -1,11 +1,28 @@
-## Trisha's First CS193 Homework
+# Trisha's First CS193 Homework
 
 ## Favorite things about CS 193!
 
 - Learning Github
 - The TA's
 - Getting to learn about the Github Student Pack
-- 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
