@@ -1,10 +1,11 @@
-# Trisha's First CS193 Homework
+# Welcome to Trisha's First CS193 Homework
 
 ## Favorite things about CS 193!
 
 - Learning Github
-- The TA's
-- Getting to learn about the Github Student Pack
+- Friendly TA's
+- No exams
+- Memes
   
 
 
